@@ -2,8 +2,5 @@
     "RAUD": "=retro_untranslator:%r",
     "RA*UD": "=retro_untranslator:`%r`",
     "STRO*EBGD": "=retro_untranslator:`%r` → `%T`",
-    "TKAO*EFPBD": "=retro_untranslator:`%r` → `%D`",
-    "-P": "=retro_untranslator:%G",
-    "SPH-P": "=retro_untranslator:%A",
-    "PWR-P": "=retro_untranslator:%B"
+    "TKAO*EFPBD": "=retro_untranslator:`%r` → `%D`"
 }
